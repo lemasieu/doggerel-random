@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Thơ con cóc ngẫu nhiên</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌸 Thơ con cóc ngẫu nhiên</h1>
+        </header>
+
+        <main>
+            <div class="controls">
+                <label for="genre">Chọn thể loại:</label>
+                <select id="genre">
+                    <option value="lucbat">Lục bát</option>
+                    <option value="songthat_lucbat">Song thất lục bát</option>
+                    <option value="thatngon_tutuyet">Thất ngôn tứ tuyệt</option>
+                    <option value="thatngon_batcu">Thất ngôn bát cú</option>
+                    <option value="ngungon_tutuyet">Ngũ ngôn tứ tuyệt</option>
+                    <option value="tu_do">Thơ tự do (4 câu)</option>
+                </select>
+                <button id="generateBtn">🐸 Tạo thơ</button>
+            </div>
+
+            <div id="poemOutput" class="poem-box">
+                <p id="poemContent" class="placeholder">Ấn nút để tạo bài thơ...</p>
+            </div>
+        </main>
+
+        <footer>
+            <p><a href="https://xn--msiu-goa8b.vn/">Về trang chủ</a> | Vui lòng bỏ qua nếu hệ thống random ra từ tục!</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
