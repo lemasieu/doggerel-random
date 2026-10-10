@@ -2,7 +2,7 @@
 
 **Doggerel Random** is a lightweight web-based Vietnamese poetry generator that creates random poems based on classical and modern Vietnamese verse forms. It uses a comprehensive dataset of Vietnamese syllables organized by rhyme and tone to produce poems that follow traditional prosodic rules.
 
-🔗 **Live Demo:** [https://xn--msiu-goa8b.vn/j4f/doggerel-random](https://xn--msiu-goa8b.vn/j4f/doggerel-random)
+🔗 **Live Demo:** [https://www.sieu.io.vn/j4f/doggerel-random](https://www.sieu.io.vn/j4f/doggerel-random)
 
 📦 **GitHub:** [https://github.com/lemasieu/doggerel-random](https://github.com/lemasieu/doggerel-random)
 
@@ -129,13 +129,7 @@ Contributions are welcome! If you have ideas for new features, improved tone/rhy
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🙏 Acknowledgements
 
 - Syllable data sourced from [lemasieu/findwordfromshuffleletters01](https://github.com/lemasieu/findwordfromshuffleletters01)
 - Inspired by Vietnamese classical poetry and the joy of random creativity
-
-Made by Deepseek with my idea.
